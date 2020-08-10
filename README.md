@@ -22,4 +22,4 @@ Since the dataset collected from UCI says that the data is a timeseries data whi
 windowing technique, so we decided to use Long Short Term Memory (since sequence matters inthis case) and reported an accuracy of 91.7% 
 using the raw data only.
 
-Due to the large dataset we have not uploaded the dataset and can be downloaded from [a link] (https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
+Due to the large dataset we have not uploaded the dataset and can be downloaded from (https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
